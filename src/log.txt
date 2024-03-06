@@ -1,0 +1,3 @@
+steps:
+- get a very basic circle to wander around
+- make it leave behind pheremones, check if other circles follow it when encountered
